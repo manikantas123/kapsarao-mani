@@ -1,0 +1,1 @@
+Planner -> Data -> Insight -> Evaluator -> Creative (unique with memory & reflection)

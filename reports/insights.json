@@ -1,0 +1,4188 @@
+[
+  {
+    "campaign": "#NAME?",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0147 ROAS=17.33",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0147,
+      "roas": 17.33,
+      "impressions": 1239969
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "-omen | Studio Sports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0114 ROAS=26.26",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0114,
+      "roas": 26.26,
+      "impressions": 369667
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "M-n Bold Colors Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0076 ROAS=0.71",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0076,
+      "roas": 0.71,
+      "impressions": 303822
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "ME Signature Soft",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0205 ROAS=1.81",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0205,
+      "roas": 1.81,
+      "impressions": 157611
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "ME- PREMIUM MODAL",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0117 ROAS=1.43",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0117,
+      "roas": 1.43,
+      "impressions": 92535
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN -ignature Soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0136 ROAS=0.79",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0136,
+      "roas": 0.79,
+      "impressions": 511435
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN B LD COLORS DROP",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0090 ROAS=1.40",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.009,
+      "roas": 1.4,
+      "impressions": 42524
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "MEN BLD COLORS DROP",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0101 ROAS=0.40",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0101,
+      "roas": 0.4,
+      "impressions": 40658
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN BOL COLORS DROP",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0045 ROAS=0.55",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0045,
+      "roas": 0.55,
+      "impressions": 122505
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "MEN BOLD COL RS DROP",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0054 ROAS=0.28",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0054,
+      "roas": 0.28,
+      "impressions": 166452
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN BOLD COLORS DROP",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0088 ROAS=1.68",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0088,
+      "roas": 1.68,
+      "impressions": 16229885
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN BOLD OLORS DROP",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0061 ROAS=0.41",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0061,
+      "roas": 0.41,
+      "impressions": 223404
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN COMF RTMAX LAUNCH",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0162 ROAS=3.74",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0162,
+      "roas": 3.74,
+      "impressions": 79419
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "MEN COMFORTMA LAUNCH",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0095 ROAS=0.22",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0095,
+      "roas": 0.22,
+      "impressions": 43599
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN COMFORTMAX AUNCH",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0175 ROAS=9.55",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0175,
+      "roas": 9.55,
+      "impressions": 484047
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "MEN COMFORTMAX LAUNCH",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0162 ROAS=6.31",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0162,
+      "roas": 6.31,
+      "impressions": 9916109
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "MEN PREM-UM MODAL",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0147 ROAS=19.61",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0147,
+      "roas": 19.61,
+      "impressions": 478089
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "MEN PREMIUM -ODAL",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0131 ROAS=89.33",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0131,
+      "roas": 89.33,
+      "impressions": 381178
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "MEN PREMIUM MOD-L",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0057 ROAS=0.34",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0057,
+      "roas": 0.34,
+      "impressions": 67126
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN PREMIUM MODAL",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0106 ROAS=6.59",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0106,
+      "roas": 6.59,
+      "impressions": 15730131
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "MEN SIGATURE SOFT",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0163 ROAS=0.36",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0163,
+      "roas": 0.36,
+      "impressions": 25797
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "MEN SIGNATUR SOFT",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0147 ROAS=1.64",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0147,
+      "roas": 1.64,
+      "impressions": 186194
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "MEN SIGNATURE S-FT",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0142 ROAS=1.48",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0142,
+      "roas": 1.48,
+      "impressions": 320385
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN SIGNATURE SOFT",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0142 ROAS=1.67",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0142,
+      "roas": 1.67,
+      "impressions": 15803502
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN SIGNATURE SOT",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0118 ROAS=0.00",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0118,
+      "roas": 0.0,
+      "impressions": 377638
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN Si nature Soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0149 ROAS=2.09",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0149,
+      "roas": 2.09,
+      "impressions": 458137
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN Si-nature Soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0187 ROAS=0.98",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0187,
+      "roas": 0.98,
+      "impressions": 237891
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN Sigature Soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0147 ROAS=1.59",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0147,
+      "roas": 1.59,
+      "impressions": 473684
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN Sign-ture Soft",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0151 ROAS=2.61",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0151,
+      "roas": 2.61,
+      "impressions": 507897
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "MEN Signa ure Soft",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0166 ROAS=1124.53",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0166,
+      "roas": 1124.53,
+      "impressions": 193660
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "MEN Signa-ure Soft",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0215 ROAS=0.90",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0215,
+      "roas": 0.9,
+      "impressions": 138882
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN Signatre Soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0149 ROAS=2.97",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0149,
+      "roas": 2.97,
+      "impressions": 435189
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN Signatu e Soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0134 ROAS=1.14",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0134,
+      "roas": 1.14,
+      "impressions": 567945
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN Signatue Soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0166 ROAS=0.93",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0166,
+      "roas": 0.93,
+      "impressions": 178094
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "MEN Signature S ft",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0119 ROAS=0.33",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0119,
+      "roas": 0.33,
+      "impressions": 123885
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "MEN Signature Sft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0127 ROAS=1.51",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0127,
+      "roas": 1.51,
+      "impressions": 209339
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN Signature Soft",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0143 ROAS=1.53",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0143,
+      "roas": 1.53,
+      "impressions": 69303085
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "MEN Signature Sot",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0123 ROAS=0.95",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0123,
+      "roas": 0.95,
+      "impressions": 388868
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN Signature oft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0123 ROAS=1.39",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0123,
+      "roas": 1.39,
+      "impressions": 398276
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "MEN Signature-Soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0189 ROAS=1.44",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0189,
+      "roas": 1.44,
+      "impressions": 62545
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "MEN Signture Soft",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0055 ROAS=0.33",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0055,
+      "roas": 0.33,
+      "impressions": 285644
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN Sinature Soft",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0098 ROAS=1.90",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0098,
+      "roas": 1.9,
+      "impressions": 321405
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN ignature Soft",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0203 ROAS=15.26",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0203,
+      "roas": 15.26,
+      "impressions": 496057
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "MEN | ATHLEISURE COOLING",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0226 ROAS=14.99",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0226,
+      "roas": 14.99,
+      "impressions": 14371513
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "MEN | ATHLEISURECOOLING",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0230 ROAS=0.00",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.023,
+      "roas": 0.0,
+      "impressions": 162622
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "MEN-SIGNATURE SOFT",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0110 ROAS=0.59",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.011,
+      "roas": 0.59,
+      "impressions": 370840
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "MEN| ATHLEISURE COOLING",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0170 ROAS=3.15",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.017,
+      "roas": 3.15,
+      "impressions": 95434
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Me  Premium Modal",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0061 ROAS=2.33",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0061,
+      "roas": 2.33,
+      "impressions": 403636
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Me Premium Modal",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0105 ROAS=6.16",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0105,
+      "roas": 6.16,
+      "impressions": 510453
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Me- Bold Colors Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0116 ROAS=0.42",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0116,
+      "roas": 0.42,
+      "impressions": 60036
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Me- Premium Modal",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0124 ROAS=1.66",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0124,
+      "roas": 1.66,
+      "impressions": 205972
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Me- | Athleisure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0178 ROAS=16.33",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0178,
+      "roas": 16.33,
+      "impressions": 450720
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men  Athleisure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0215 ROAS=10.14",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0215,
+      "roas": 10.14,
+      "impressions": 76947
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Men  old Colors Drop",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0132 ROAS=22.05",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0132,
+      "roas": 22.05,
+      "impressions": 436699
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men -old Colors Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0083 ROAS=2.14",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0083,
+      "roas": 2.14,
+      "impressions": 290072
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Men -remium Modal",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0112 ROAS=1.35",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0112,
+      "roas": 1.35,
+      "impressions": 67456
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Men -| Athleisure Cooling",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0000 ROAS=3978.72",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0,
+      "roas": 3978.72,
+      "impressions": 120672
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Men B ld Colors Drop",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0120 ROAS=5.98",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.012,
+      "roas": 5.98,
+      "impressions": 310514
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Men B-ld Colors Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0066 ROAS=0.91",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0066,
+      "roas": 0.91,
+      "impressions": 137218
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Men Bol Colors Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0096 ROAS=1.42",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0096,
+      "roas": 1.42,
+      "impressions": 294602
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Men Bold -olors Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0093 ROAS=2.17",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0093,
+      "roas": 2.17,
+      "impressions": 208052
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Men Bold C-lors Drop",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0130 ROAS=0.62",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.013,
+      "roas": 0.62,
+      "impressions": 207047
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "Men Bold Co ors Drop",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0130 ROAS=8.78",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.013,
+      "roas": 8.78,
+      "impressions": 300567
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men Bold Col-rs Drop",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0084 ROAS=15.99",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0084,
+      "roas": 15.99,
+      "impressions": 367632
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Men Bold Colo s Drop",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0116 ROAS=3.74",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0116,
+      "roas": 3.74,
+      "impressions": 466682
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Men Bold Colo-s Drop",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0123 ROAS=4.76",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0123,
+      "roas": 4.76,
+      "impressions": 287626
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men Bold Color- Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0114 ROAS=0.32",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0114,
+      "roas": 0.32,
+      "impressions": 14882
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Men Bold Colors Dr p",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0089 ROAS=0.24",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0089,
+      "roas": 0.24,
+      "impressions": 30932
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Men Bold Colors Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0087 ROAS=1.75",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0087,
+      "roas": 1.75,
+      "impressions": 80383359
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Men Bold Colors rop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0118 ROAS=0.74",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0118,
+      "roas": 0.74,
+      "impressions": 210987
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Men Bold Colors-Drop",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0126 ROAS=7.04",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0126,
+      "roas": 7.04,
+      "impressions": 508533
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men Bold Coors Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0072 ROAS=0.17",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0072,
+      "roas": 0.17,
+      "impressions": 21626
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Men BoldColors Drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0061 ROAS=0.51",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0061,
+      "roas": 0.51,
+      "impressions": 173827
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Men C mfortMax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0185 ROAS=6.44",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0185,
+      "roas": 6.44,
+      "impressions": 414433
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men C-mfortMax Launch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0136 ROAS=20.66",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0136,
+      "roas": 20.66,
+      "impressions": 501720
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men Co fortMax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0142 ROAS=3.30",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0142,
+      "roas": 3.3,
+      "impressions": 198646
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Men CofortMax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0232 ROAS=7.46",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0232,
+      "roas": 7.46,
+      "impressions": 73664
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Men Com-ortMax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0168 ROAS=6.23",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0168,
+      "roas": 6.23,
+      "impressions": 253112
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men Comf rtMax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0146 ROAS=3.64",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0146,
+      "roas": 3.64,
+      "impressions": 333371
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men Comf-rtMax Launch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0150 ROAS=9.35",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.015,
+      "roas": 9.35,
+      "impressions": 1629522
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men Comfo tMax Launch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0148 ROAS=5.71",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0148,
+      "roas": 5.71,
+      "impressions": 359404
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men Comfo tmax Launch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0223 ROAS=24.30",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0223,
+      "roas": 24.3,
+      "impressions": 313219
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men ComforMax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0195 ROAS=20.88",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0195,
+      "roas": 20.88,
+      "impressions": 124070
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Men Comfort-ax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0169 ROAS=28.25",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0169,
+      "roas": 28.25,
+      "impressions": 330875
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men ComfortMa- Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0154 ROAS=3.17",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0154,
+      "roas": 3.17,
+      "impressions": 218547
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men ComfortMax L unch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0154 ROAS=5.53",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0154,
+      "roas": 5.53,
+      "impressions": 343595
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men ComfortMax Lau-ch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0123 ROAS=3.61",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0123,
+      "roas": 3.61,
+      "impressions": 302849
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men ComfortMax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0151 ROAS=6.84",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0151,
+      "roas": 6.84,
+      "impressions": 70342876
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men ComfortMax Lunch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0129 ROAS=1178.68",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0129,
+      "roas": 1178.68,
+      "impressions": 157562
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men Comfortma- Launch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0145 ROAS=37.11",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0145,
+      "roas": 37.11,
+      "impressions": 386845
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men Comfortmax Lau ch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0233 ROAS=22.61",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0233,
+      "roas": 22.61,
+      "impressions": 368092
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men Comfortmax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0164 ROAS=5.79",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0164,
+      "roas": 5.79,
+      "impressions": 13245493
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men Comfortmax Lunch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0192 ROAS=5.38",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0192,
+      "roas": 5.38,
+      "impressions": 338152
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men Pr-mium Modal",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0000 ROAS=20.28",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0,
+      "roas": 20.28,
+      "impressions": 510469
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Men Pre ium Modal",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0109 ROAS=4.50",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0109,
+      "roas": 4.5,
+      "impressions": 123022
+    },
+    "confidence_final": 0.65
+  },
+  {
+    "campaign": "Men Prem um Modal",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0077 ROAS=0.33",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0077,
+      "roas": 0.33,
+      "impressions": 37208
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Men Premiu- Modal",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0000 ROAS=4.03",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0,
+      "roas": 4.03,
+      "impressions": 222084
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Men Premium -odal",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0066 ROAS=1.59",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0066,
+      "roas": 1.59,
+      "impressions": 118261
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Men Premium M-dal",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0098 ROAS=2.65",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0098,
+      "roas": 2.65,
+      "impressions": 336441
+    },
+    "confidence_final": 0.95
+  },
+  {
+    "campaign": "Men Premium Mod-l",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0101 ROAS=2.71",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0101,
+      "roas": 2.71,
+      "impressions": 122852
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Men Premium Modal",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0105 ROAS=5.17",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0105,
+      "roas": 5.17,
+      "impressions": 83200907
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Men Sig-ature Soft",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0128 ROAS=5.35",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0128,
+      "roas": 5.35,
+      "impressions": 276076
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men Sigature Soft",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0143 ROAS=3.90",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0143,
+      "roas": 3.9,
+      "impressions": 335157
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men Signature Soft",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0145 ROAS=1.59",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0145,
+      "roas": 1.59,
+      "impressions": 9789201
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "Men Signture Soft",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0144 ROAS=5.35",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0144,
+      "roas": 5.35,
+      "impressions": 206825
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men old Colors Drop",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0101 ROAS=4.32",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0101,
+      "roas": 4.32,
+      "impressions": 409168
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Men remium Modal",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0109 ROAS=5.48",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0109,
+      "roas": 5.48,
+      "impressions": 1226987
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Men | Ath eisure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0226 ROAS=11.27",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0226,
+      "roas": 11.27,
+      "impressions": 330406
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men | Athlei ure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0193 ROAS=67.21",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0193,
+      "roas": 67.21,
+      "impressions": 449172
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men | Athlei-ure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0254 ROAS=10.85",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0254,
+      "roas": 10.85,
+      "impressions": 38910
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Men | Athleis re Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0140 ROAS=26.07",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.014,
+      "roas": 26.07,
+      "impressions": 180813
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Men | Athleisur- Cooling",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0204 ROAS=5.85",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0204,
+      "roas": 5.85,
+      "impressions": 80792
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men | Athleisure Co ling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0250 ROAS=24.01",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.025,
+      "roas": 24.01,
+      "impressions": 365385
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men | Athleisure Coling",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0200 ROAS=1.36",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.02,
+      "roas": 1.36,
+      "impressions": 57316
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Men | Athleisure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0209 ROAS=12.51",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0209,
+      "roas": 12.51,
+      "impressions": 67246064
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men | Athleiure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0212 ROAS=13.15",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0212,
+      "roas": 13.15,
+      "impressions": 146013
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Men | Atleisure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0172 ROAS=7.92",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0172,
+      "roas": 7.92,
+      "impressions": 284604
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men | thleisure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0247 ROAS=34.37",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0247,
+      "roas": 34.37,
+      "impressions": 387995
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men |Athleisure Cooling",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0208 ROAS=22.89",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0208,
+      "roas": 22.89,
+      "impressions": 324005
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Men- Premium Modal",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0081 ROAS=13.83",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0081,
+      "roas": 13.83,
+      "impressions": 301636
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Men-Athleisure Cooli-g",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0256 ROAS=0.00",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0256,
+      "roas": 0.0,
+      "impressions": 460080
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Men-Athleisure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0187 ROAS=13.36",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0187,
+      "roas": 13.36,
+      "impressions": 15608606
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Men-Bold Colors Drop",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0140 ROAS=0.87",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.014,
+      "roas": 0.87,
+      "impressions": 191771
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Men-Comfortmax Launch",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0177 ROAS=2.74",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0177,
+      "roas": 2.74,
+      "impressions": 345771
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Men-Premium Modal",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0099 ROAS=10.07",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0099,
+      "roas": 10.07,
+      "impressions": 285548
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Men-thleisure Cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0285 ROAS=5.50",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0285,
+      "roas": 5.5,
+      "impressions": 198524
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "MenComfortmax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0171 ROAS=3.14",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0171,
+      "roas": 3.14,
+      "impressions": 363786
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Mn ComfortMax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0151 ROAS=8.29",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0151,
+      "roas": 8.29,
+      "impressions": 481593
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "OMEN COTTON CLASSICS",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0076 ROAS=0.32",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0076,
+      "roas": 0.32,
+      "impressions": 22171
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "OMEN Cotton Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0102 ROAS=9.84",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0102,
+      "roas": 9.84,
+      "impressions": 181730
+    },
+    "confidence_final": 0.65
+  },
+  {
+    "campaign": "W MEN Cotton Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0088 ROAS=15.44",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0088,
+      "roas": 15.44,
+      "impressions": 516847
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "W MEN FIT & LIFT",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0154 ROAS=3.43",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0154,
+      "roas": 3.43,
+      "impressions": 936861
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "W men Fit & Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0211 ROAS=19.52",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0211,
+      "roas": 19.52,
+      "impressions": 483876
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "W men Summer Invisible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0083 ROAS=1.06",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0083,
+      "roas": 1.06,
+      "impressions": 271270
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "W men-Studio Sports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0116 ROAS=38.05",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0116,
+      "roas": 38.05,
+      "impressions": 469855
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "W-men Fit & Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0206 ROAS=4.76",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0206,
+      "roas": 4.76,
+      "impressions": 168985
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "W-men | Studio Sports",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0181 ROAS=5.62",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0181,
+      "roas": 5.62,
+      "impressions": 234642
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "WMEN Cotton Classics",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0127 ROAS=10.96",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0127,
+      "roas": 10.96,
+      "impressions": 326703
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "WMEN Seamless Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0098 ROAS=31.14",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0098,
+      "roas": 31.14,
+      "impressions": 222142
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "WOEN Cotton Classics",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0054 ROAS=2.67",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0054,
+      "roas": 2.67,
+      "impressions": 225783
+    },
+    "confidence_final": 0.95
+  },
+  {
+    "campaign": "WOEN FIT & LIFT",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0069 ROAS=1.18",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0069,
+      "roas": 1.18,
+      "impressions": 282108
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "WOM N FIT & LIFT",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0228 ROAS=0.72",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0228,
+      "roas": 0.72,
+      "impressions": 132314
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOME SEAMLESS EVERYDAY",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0113 ROAS=1.43",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0113,
+      "roas": 1.43,
+      "impressions": 19041
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "WOMEN -eamless Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0097 ROAS=12.68",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0097,
+      "roas": 12.68,
+      "impressions": 88153
+    },
+    "confidence_final": 0.65
+  },
+  {
+    "campaign": "WOMEN C tton Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0116 ROAS=10.34",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0116,
+      "roas": 10.34,
+      "impressions": 740485
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN COTTON CLASS-CS",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0123 ROAS=20.10",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0123,
+      "roas": 20.1,
+      "impressions": 312305
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "WOMEN COTTON CLASSICS",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0108 ROAS=7.88",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0108,
+      "roas": 7.88,
+      "impressions": 13068292
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN COTTON CLASSIS",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0096 ROAS=4.69",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0096,
+      "roas": 4.69,
+      "impressions": 346839
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN COTTON LASSICS",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0102 ROAS=11.19",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0102,
+      "roas": 11.19,
+      "impressions": 258390
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN Cot-on Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0045 ROAS=4.00",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0045,
+      "roas": 4.0,
+      "impressions": 965816
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "WOMEN Coton Classics",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0126 ROAS=12.71",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0126,
+      "roas": 12.71,
+      "impressions": 816211
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "WOMEN Cotto- Classics",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0155 ROAS=25.93",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0155,
+      "roas": 25.93,
+      "impressions": 262889
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "WOMEN Cotton Cl-ssics",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0122 ROAS=12.45",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0122,
+      "roas": 12.45,
+      "impressions": 106615
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "WOMEN Cotton Cla-sics",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0122 ROAS=2.60",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0122,
+      "roas": 2.6,
+      "impressions": 152512
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "WOMEN Cotton Clas ics",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0143 ROAS=15.88",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0143,
+      "roas": 15.88,
+      "impressions": 144887
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "WOMEN Cotton Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0100 ROAS=7.41",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.01,
+      "roas": 7.41,
+      "impressions": 67698712
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN Cotton Classis",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0126 ROAS=0.91",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0126,
+      "roas": 0.91,
+      "impressions": 28107
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN Ctton Classics",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0170 ROAS=16.37",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.017,
+      "roas": 16.37,
+      "impressions": 462747
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "WOMEN FIT & -IFT",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0234 ROAS=1.99",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0234,
+      "roas": 1.99,
+      "impressions": 240537
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "WOMEN FIT & LIFT",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0181 ROAS=3.83",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0181,
+      "roas": 3.83,
+      "impressions": 17506526
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "WOMEN FIT LIFT",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0208 ROAS=1.06",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0208,
+      "roas": 1.06,
+      "impressions": 177266
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN SEAM ESS EVERYDAY",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0092 ROAS=3.32",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0092,
+      "roas": 3.32,
+      "impressions": 381636
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN SEAMLESS EV RYDAY",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0079 ROAS=7.64",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0079,
+      "roas": 7.64,
+      "impressions": 231358
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN SEAMLESS EVE YDAY",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0075 ROAS=2.96",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0075,
+      "roas": 2.96,
+      "impressions": 76426
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "WOMEN SEAMLESS EVERYDAY",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0079 ROAS=5.98",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0079,
+      "roas": 5.98,
+      "impressions": 14359473
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "WOMEN SUMMER I VISIBLE",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0137 ROAS=19.08",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0137,
+      "roas": 19.08,
+      "impressions": 469340
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "WOMEN SUMMER INVISIBE",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0124 ROAS=1.04",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0124,
+      "roas": 1.04,
+      "impressions": 83497
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN SUMMER INVISIBLE",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0102 ROAS=4.40",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0102,
+      "roas": 4.4,
+      "impressions": 13940883
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN SUMMER INVSIBLE",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0107 ROAS=0.44",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0107,
+      "roas": 0.44,
+      "impressions": 16115
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "WOMEN Seamles  Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0091 ROAS=4.52",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0091,
+      "roas": 4.52,
+      "impressions": 109081
+    },
+    "confidence_final": 0.65
+  },
+  {
+    "campaign": "WOMEN Seamless E eryday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0108 ROAS=14.86",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0108,
+      "roas": 14.86,
+      "impressions": 115664
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN Seamless Eeryday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0096 ROAS=16.50",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0096,
+      "roas": 16.5,
+      "impressions": 377449
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN Seamless Eve yday",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0124 ROAS=5.78",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0124,
+      "roas": 5.78,
+      "impressions": 435301
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "WOMEN Seamless Ever-day",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0081 ROAS=6.36",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0081,
+      "roas": 6.36,
+      "impressions": 142145
+    },
+    "confidence_final": 0.65
+  },
+  {
+    "campaign": "WOMEN Seamless Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0082 ROAS=5.30",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0082,
+      "roas": 5.3,
+      "impressions": 71431710
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN Seamless Everydy",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0053 ROAS=13.92",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0053,
+      "roas": 13.92,
+      "impressions": 463408
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN Seamless- Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0104 ROAS=5.14",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0104,
+      "roas": 5.14,
+      "impressions": 448721
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN Semless Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0000 ROAS=3.26",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0,
+      "roas": 3.26,
+      "impressions": 97354
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN eamless Everyday",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0086 ROAS=2.16",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0086,
+      "roas": 2.16,
+      "impressions": 40709
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "WOMEN otton Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0114 ROAS=10.18",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0114,
+      "roas": 10.18,
+      "impressions": 691375
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN | STUDIO SPORTS",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0114 ROAS=9.80",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0114,
+      "roas": 9.8,
+      "impressions": 12018159
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "WOMEN | SUDIO SPORTS",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0093 ROAS=7.94",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0093,
+      "roas": 7.94,
+      "impressions": 207501
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WOMEN-FIT & LIFT",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0252 ROAS=11.92",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0252,
+      "roas": 11.92,
+      "impressions": 138931
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "WOMENSeamless Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0091 ROAS=11.51",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0091,
+      "roas": 11.51,
+      "impressions": 174848
+    },
+    "confidence_final": 0.65
+  },
+  {
+    "campaign": "WOMN Cotton Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0085 ROAS=7.48",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0085,
+      "roas": 7.48,
+      "impressions": 452508
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Wmen Fit & Lift",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0128 ROAS=2.60",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0128,
+      "roas": 2.6,
+      "impressions": 177675
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Wmen | Studio Sports",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0062 ROAS=1.95",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0062,
+      "roas": 1.95,
+      "impressions": 182623
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Wo en Fit & Lift",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0204 ROAS=2.86",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0204,
+      "roas": 2.86,
+      "impressions": 515411
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "Wo-en Fit & Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0176 ROAS=11.40",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0176,
+      "roas": 11.4,
+      "impressions": 513751
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Wo-en | Studio Sports",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0124 ROAS=21.56",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0124,
+      "roas": 21.56,
+      "impressions": 253623
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Woen Fit and Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0182 ROAS=3.15",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0182,
+      "roas": 3.15,
+      "impressions": 277850
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Wom n Fit & Lift",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0208 ROAS=7.32",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0208,
+      "roas": 7.32,
+      "impressions": 852038
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Wom n-Studio Sports",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0120 ROAS=2670.87",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.012,
+      "roas": 2670.87,
+      "impressions": 264474
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Wom-n Cotton Classics",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0123 ROAS=2.35",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0123,
+      "roas": 2.35,
+      "impressions": 131808
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Wom-n Fit & Lift",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0000 ROAS=0.52",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0,
+      "roas": 0.52,
+      "impressions": 74945
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Wome Fit & Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0167 ROAS=8.58",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0167,
+      "roas": 8.58,
+      "impressions": 354779
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Wome Fit and Lift",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0187 ROAS=2.91",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0187,
+      "roas": 2.91,
+      "impressions": 390575
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Women -it & Lift",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0184 ROAS=2.20",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0184,
+      "roas": 2.2,
+      "impressions": 538665
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "Women C-tton Classics",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0080 ROAS=0.83",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.008,
+      "roas": 0.83,
+      "impressions": 52394
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Women Co-ton Classics",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0115 ROAS=2.30",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0115,
+      "roas": 2.3,
+      "impressions": 221005
+    },
+    "confidence_final": 0.95
+  },
+  {
+    "campaign": "Women Cottn Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0084 ROAS=5.40",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0084,
+      "roas": 5.4,
+      "impressions": 217209
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women Cotton Clas ics",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0131 ROAS=0.00",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0131,
+      "roas": 0.0,
+      "impressions": 461142
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Women Cotton Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0101 ROAS=8.07",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0101,
+      "roas": 8.07,
+      "impressions": 15926665
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women Cotton Classis",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0131 ROAS=4.90",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0131,
+      "roas": 4.9,
+      "impressions": 298357
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Women Cotton lassics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0083 ROAS=11.00",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0083,
+      "roas": 11.0,
+      "impressions": 474673
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women F t & Lift",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0180 ROAS=1.76",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.018,
+      "roas": 1.76,
+      "impressions": 505885
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Women Fi & Lift",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0172 ROAS=0.00",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0172,
+      "roas": 0.0,
+      "impressions": 283469
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Women Fit   Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0150 ROAS=11.36",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.015,
+      "roas": 11.36,
+      "impressions": 434420
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women Fit & Lft",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0154 ROAS=2.12",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0154,
+      "roas": 2.12,
+      "impressions": 343448
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "Women Fit & Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0169 ROAS=3.45",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0169,
+      "roas": 3.45,
+      "impressions": 62412942
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women Fit & ift",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0123 ROAS=0.28",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0123,
+      "roas": 0.28,
+      "impressions": 69410
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women Fit Lift",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0083 ROAS=2.52",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0083,
+      "roas": 2.52,
+      "impressions": 270275
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Women Fit and Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0164 ROAS=3.96",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0164,
+      "roas": 3.96,
+      "impressions": 11465907
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women Fit& Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0187 ROAS=4.25",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0187,
+      "roas": 4.25,
+      "impressions": 358256
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women Se mless Everyday",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0139 ROAS=3.60",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0139,
+      "roas": 3.6,
+      "impressions": 118820
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women Seamless Eve yday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0000 ROAS=11.49",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0,
+      "roas": 11.49,
+      "impressions": 176157
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women Seamless Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0074 ROAS=5.44",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0074,
+      "roas": 5.44,
+      "impressions": 13727649
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women Semless Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0113 ROAS=3.30",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0113,
+      "roas": 3.3,
+      "impressions": 151022
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women Sum er Invisible",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0125 ROAS=11.62",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0125,
+      "roas": 11.62,
+      "impressions": 244146
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "Women Summ-r Invisible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0113 ROAS=0.55",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0113,
+      "roas": 0.55,
+      "impressions": 13852
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Women Summer In-isible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0097 ROAS=2.15",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0097,
+      "roas": 2.15,
+      "impressions": 59910
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "Women Summer Invisi-le",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0132 ROAS=11.33",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0132,
+      "roas": 11.33,
+      "impressions": 270357
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women Summer Invisible",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0102 ROAS=3.43",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0102,
+      "roas": 3.43,
+      "impressions": 10846426
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Women it & Lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0201 ROAS=9.18",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0201,
+      "roas": 9.18,
+      "impressions": 442907
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women | Stu io Sports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0093 ROAS=8.48",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0093,
+      "roas": 8.48,
+      "impressions": 487391
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women | Stu-io Sports",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0154 ROAS=24.78",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0154,
+      "roas": 24.78,
+      "impressions": 289718
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women | Studi Sports",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0122 ROAS=5.57",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0122,
+      "roas": 5.57,
+      "impressions": 94330
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Women | Studio Sp rts",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0098 ROAS=1.02",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0098,
+      "roas": 1.02,
+      "impressions": 96140
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Women | Studio Spo ts",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0137 ROAS=16.00",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0137,
+      "roas": 16.0,
+      "impressions": 409919
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women | Studio Spo-ts",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0095 ROAS=3.52",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0095,
+      "roas": 3.52,
+      "impressions": 220998
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women | Studio Spors",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0129 ROAS=16.29",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0129,
+      "roas": 16.29,
+      "impressions": 84053
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women | Studio Sports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0109 ROAS=9.07",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0109,
+      "roas": 9.07,
+      "impressions": 69059998
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women | Studio ports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0116 ROAS=7.86",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0116,
+      "roas": 7.86,
+      "impressions": 283779
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women | tudio Sports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0113 ROAS=17.18",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0113,
+      "roas": 17.18,
+      "impressions": 355351
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Women |-Studio Sports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0097 ROAS=6.30",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0097,
+      "roas": 6.3,
+      "impressions": 155276
+    },
+    "confidence_final": 0.65
+  },
+  {
+    "campaign": "Women-Stud o Sports",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0140 ROAS=21.64",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.014,
+      "roas": 21.64,
+      "impressions": 505640
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women-Studio -ports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0090 ROAS=6.63",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.009,
+      "roas": 6.63,
+      "impressions": 298747
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "Women-Studio S orts",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0066 ROAS=2.61",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0066,
+      "roas": 2.61,
+      "impressions": 270653
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "Women-Studio Spo-ts",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0000 ROAS=19.17",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0,
+      "roas": 19.17,
+      "impressions": 268566
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women-Studio Spors",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0158 ROAS=21.90",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0158,
+      "roas": 21.9,
+      "impressions": 400379
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "Women-Studio Sports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0108 ROAS=8.01",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0108,
+      "roas": 8.01,
+      "impressions": 15956778
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "Women-Studio Spots",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0185 ROAS=28.34",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0185,
+      "roas": 28.34,
+      "impressions": 103818
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "Women-Studio-Sports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0089 ROAS=41.07",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0089,
+      "roas": 41.07,
+      "impressions": 144211
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WomenCotton Classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0095 ROAS=8.25",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0095,
+      "roas": 8.25,
+      "impressions": 83855
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "WomenSeamless Everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0110 ROAS=10.40",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.011,
+      "roas": 10.4,
+      "impressions": 438130
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "en ComfortMax Launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0217 ROAS=9.52",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0217,
+      "roas": 9.52,
+      "impressions": 233920
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "en Premium Modal",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0144 ROAS=4.66",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0144,
+      "roas": 4.66,
+      "impressions": 406432
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "en comfortmax launch",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0161 ROAS=0.78",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0161,
+      "roas": 0.78,
+      "impressions": 34301
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "m n | athleisure cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0159 ROAS=10.53",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0159,
+      "roas": 10.53,
+      "impressions": 694422
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "me bold colors drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0092 ROAS=1.88",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0092,
+      "roas": 1.88,
+      "impressions": 405401
+    },
+    "confidence_final": 0.95
+  },
+  {
+    "campaign": "men bld colors drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0087 ROAS=1.78",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0087,
+      "roas": 1.78,
+      "impressions": 150277
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "men bo-d colors drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0111 ROAS=2.78",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0111,
+      "roas": 2.78,
+      "impressions": 334273
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "men bold clors drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0119 ROAS=2.05",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0119,
+      "roas": 2.05,
+      "impressions": 297961
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "men bold colors drop",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0097 ROAS=1.82",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0097,
+      "roas": 1.82,
+      "impressions": 15676184
+    },
+    "confidence_final": 0.95
+  },
+  {
+    "campaign": "men co fortmax launch",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0149 ROAS=2.74",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0149,
+      "roas": 2.74,
+      "impressions": 300700
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "men comfor-max launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0149 ROAS=2999.73",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0149,
+      "roas": 2999.73,
+      "impressions": 324920
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "men comfortmax launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0155 ROAS=6.65",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0155,
+      "roas": 6.65,
+      "impressions": 11419812
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "men comfotmax launch",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0184 ROAS=7.56",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0184,
+      "roas": 7.56,
+      "impressions": 289079
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "men omfortmax launch",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0220 ROAS=19.09",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.022,
+      "roas": 19.09,
+      "impressions": 502373
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "men premium modal",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0110 ROAS=5.65",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.011,
+      "roas": 5.65,
+      "impressions": 12250365
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "men s gnature soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0150 ROAS=1.07",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.015,
+      "roas": 1.07,
+      "impressions": 33799
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "men sig ature soft",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0130 ROAS=0.24",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.013,
+      "roas": 0.24,
+      "impressions": 109203
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "men signa ure soft",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0145 ROAS=2.44",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0145,
+      "roas": 2.44,
+      "impressions": 379431
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "men signature soft",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0144 ROAS=2.03",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0144,
+      "roas": 2.03,
+      "impressions": 16202316
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "men | athleisure cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0197 ROAS=12.02",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0197,
+      "roas": 12.02,
+      "impressions": 18115832
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "men | athlisure cooling",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0183 ROAS=4714.60",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0183,
+      "roas": 4714.6,
+      "impressions": 228119
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "mn | athleisure cooling",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0293 ROAS=11.60",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0293,
+      "roas": 11.6,
+      "impressions": 334200
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "omen Summer Invisible",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0120 ROAS=3.55",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.012,
+      "roas": 3.55,
+      "impressions": 548487
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "omen | Studio Sports",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0138 ROAS=0.00",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0138,
+      "roas": 0.0,
+      "impressions": 289232
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "w men cotton classics",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0088 ROAS=0.87",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0088,
+      "roas": 0.87,
+      "impressions": 48688
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "w men fit & lift",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0212 ROAS=9.94",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0212,
+      "roas": 9.94,
+      "impressions": 427255
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "w-men cotton classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0094 ROAS=9.35",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0094,
+      "roas": 9.35,
+      "impressions": 494553
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "wo en fit & lift",
+    "hypothesis": "repetitive_creative_angles",
+    "reasoning": "CTR=0.0166 ROAS=3.68",
+    "confidence": 0.63,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0166,
+      "roas": 3.68,
+      "impressions": 418057
+    },
+    "confidence_final": 0.68
+  },
+  {
+    "campaign": "wo-en seamless everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0097 ROAS=4.74",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0097,
+      "roas": 4.74,
+      "impressions": 352047
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "woen Summer Invisible",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0150 ROAS=6.65",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.015,
+      "roas": 6.65,
+      "impressions": 676215
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "wom-n Summer Invisible",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0122 ROAS=6.18",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0122,
+      "roas": 6.18,
+      "impressions": 407485
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "wome Summer Invisible",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0117 ROAS=6.07",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0117,
+      "roas": 6.07,
+      "impressions": 353353
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women -ummer Invisible",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0153 ROAS=5.25",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0153,
+      "roas": 5.25,
+      "impressions": 319543
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "women Su mer Invisible",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0079 ROAS=24.39",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0079,
+      "roas": 24.39,
+      "impressions": 449572
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women Summ r Invisible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0086 ROAS=1.54",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0086,
+      "roas": 1.54,
+      "impressions": 176180
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "women Summ-r Invisible",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0109 ROAS=5.25",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0109,
+      "roas": 5.25,
+      "impressions": 483287
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women Summe Invisible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0077 ROAS=2.41",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0077,
+      "roas": 2.41,
+      "impressions": 411098
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "women Summer -nvisible",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0178 ROAS=15.74",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0178,
+      "roas": 15.74,
+      "impressions": 241278
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "women Summer In isible",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0129 ROAS=0.33",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0129,
+      "roas": 0.33,
+      "impressions": 36288
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women Summer In-isible",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0093 ROAS=24.31",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0093,
+      "roas": 24.31,
+      "impressions": 294900
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women Summer Inisible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0095 ROAS=0.53",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0095,
+      "roas": 0.53,
+      "impressions": 32574
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "women Summer Inv-sible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0116 ROAS=0.00",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0116,
+      "roas": 0.0,
+      "impressions": 35102
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "women Summer Invi ible",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0094 ROAS=13.56",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0094,
+      "roas": 13.56,
+      "impressions": 352330
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women Summer Invi-ible",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0120 ROAS=0.66",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.012,
+      "roas": 0.66,
+      "impressions": 44472
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women Summer Invisble",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0089 ROAS=1.45",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0089,
+      "roas": 1.45,
+      "impressions": 105538
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "women Summer Invisi-le",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0089 ROAS=5.72",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0089,
+      "roas": 5.72,
+      "impressions": 519238
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women Summer Invisib e",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0100 ROAS=8.78",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.01,
+      "roas": 8.78,
+      "impressions": 388737
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "women Summer Invisible",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0107 ROAS=5.16",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0107,
+      "roas": 5.16,
+      "impressions": 73784710
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women Summer nvisible",
+    "hypothesis": "roas_decline",
+    "reasoning": "CTR=0.0133 ROAS=2.99",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0133,
+      "roas": 2.99,
+      "impressions": 390046
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "women c-tton classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0083 ROAS=3.04",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0083,
+      "roas": 3.04,
+      "impressions": 112581
+    },
+    "confidence_final": 0.65
+  },
+  {
+    "campaign": "women co ton classics",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0112 ROAS=2.79",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0112,
+      "roas": 2.79,
+      "impressions": 87612
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "women cott n classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0093 ROAS=16.13",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0093,
+      "roas": 16.13,
+      "impressions": 311417
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women cotton clasics",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0104 ROAS=1.23",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0104,
+      "roas": 1.23,
+      "impressions": 102919
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "women cotton classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0095 ROAS=8.37",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0095,
+      "roas": 8.37,
+      "impressions": 14458086
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "women fit & ift",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0170 ROAS=1.79",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.017,
+      "roas": 1.79,
+      "impressions": 218732
+    },
+    "confidence_final": 0.8
+  },
+  {
+    "campaign": "women fit & li t",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0078 ROAS=788.83",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0078,
+      "roas": 788.83,
+      "impressions": 258145
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "women fit & lift",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0171 ROAS=4.50",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0171,
+      "roas": 4.5,
+      "impressions": 15473143
+    },
+    "confidence_final": 0.63
+  },
+  {
+    "campaign": "women fit-& lift",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0159 ROAS=1.54",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0159,
+      "roas": 1.54,
+      "impressions": 90440
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "women s amless everyday",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0098 ROAS=1.82",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0098,
+      "roas": 1.82,
+      "impressions": 296400
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "women s-mmer invisible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0085 ROAS=1.33",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0085,
+      "roas": 1.33,
+      "impressions": 103973
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "women seam-ess everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0092 ROAS=38.71",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0092,
+      "roas": 38.71,
+      "impressions": 257800
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women seamess everyday",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0077 ROAS=2.29",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0077,
+      "roas": 2.29,
+      "impressions": 84675
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "women seaml-ss everyday",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0106 ROAS=2.15",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0106,
+      "roas": 2.15,
+      "impressions": 32617
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "women seamless everday",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0094 ROAS=2.02",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0094,
+      "roas": 2.02,
+      "impressions": 267204
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "women seamless everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0079 ROAS=5.30",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0079,
+      "roas": 5.3,
+      "impressions": 13755475
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women seamless-everyday",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0089 ROAS=16.56",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0089,
+      "roas": 16.56,
+      "impressions": 338861
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women su-mer invisible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0057 ROAS=0.00",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0057,
+      "roas": 0.0,
+      "impressions": 287625
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "women summe- invisible",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0088 ROAS=5.43",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0088,
+      "roas": 5.43,
+      "impressions": 189138
+    },
+    "confidence_final": 0.65
+  },
+  {
+    "campaign": "women summer in isible",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0094 ROAS=1.05",
+    "confidence": 0.9,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0094,
+      "roas": 1.05,
+      "impressions": 127198
+    },
+    "confidence_final": 0.9
+  },
+  {
+    "campaign": "women summer invisible",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0106 ROAS=4.50",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0106,
+      "roas": 4.5,
+      "impressions": 11149957
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "women | studio sp-rts",
+    "hypothesis": "creative_fatigue_or_low_hook_strength & repetitive_creative_angles",
+    "reasoning": "CTR=0.0115 ROAS=76.37",
+    "confidence": 0.7,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0115,
+      "roas": 76.37,
+      "impressions": 119026
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women | studio spo ts",
+    "hypothesis": "roas_decline & creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0062 ROAS=0.00",
+    "confidence": 0.85,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0062,
+      "roas": 0.0,
+      "impressions": 190126
+    },
+    "confidence_final": 0.85
+  },
+  {
+    "campaign": "women | studio sports",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0101 ROAS=8.77",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0101,
+      "roas": 8.77,
+      "impressions": 16319951
+    },
+    "confidence_final": 0.7
+  },
+  {
+    "campaign": "women | studio sprts",
+    "hypothesis": "roas_decline & repetitive_creative_angles",
+    "reasoning": "CTR=0.0137 ROAS=1.24",
+    "confidence": 0.75,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0137,
+      "roas": 1.24,
+      "impressions": 138828
+    },
+    "confidence_final": 0.75
+  },
+  {
+    "campaign": "women-| studio sports",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0162 ROAS=4.98",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0162,
+      "roas": 4.98,
+      "impressions": 154939
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "womn Summer Invisible",
+    "hypothesis": "stable_but_opportunity_for_scale",
+    "reasoning": "CTR=0.0125 ROAS=3.05",
+    "confidence": 0.58,
+    "retry": true,
+    "evidence": {
+      "ctr": 0.0125,
+      "roas": 3.05,
+      "impressions": 109918
+    },
+    "confidence_final": 0.58
+  },
+  {
+    "campaign": "womn cotton classics",
+    "hypothesis": "creative_fatigue_or_low_hook_strength",
+    "reasoning": "CTR=0.0079 ROAS=6.83",
+    "confidence": 0.65,
+    "retry": false,
+    "evidence": {
+      "ctr": 0.0079,
+      "roas": 6.83,
+      "impressions": 237466
+    },
+    "confidence_final": 0.7
+  }
+]

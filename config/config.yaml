@@ -1,0 +1,12 @@
+seed: 2025
+confidence_threshold: 0.6
+data_path: data/synthetic_fb_ads_u.csv
+sample_mode: false
+min_ctr_alert: 0.012
+outputs:
+  insights: reports/insights.json
+  creatives: reports/creatives.json
+  report: reports/report.md
+memory:
+  enabled: true
+  path: logs/memory.json

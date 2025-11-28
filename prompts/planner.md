@@ -1,0 +1,1 @@
+Decompose query into structured plan with window_days.

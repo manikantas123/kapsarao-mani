@@ -1,0 +1,1 @@
+Think -> Analyze -> Conclude. Output JSON schema.
